@@ -1,10 +1,10 @@
 GET https://uksouth.tts.speech.microsoft.com/cognitiveservices/voices/list
-Ocp-Apim-Subscription-Key:9c2c8fc921be4b4a9d5d460e02a19816
+Ocp-Apim-Subscription-Key:x
 
 ###
 
 POST https://uksouth.tts.speech.microsoft.com/cognitiveservices/v1
-Ocp-Apim-Subscription-Key:f5216b41b7804f5483dcd5615bfb90c3
+Ocp-Apim-Subscription-Key:x
 X-Microsoft-OutputFormat: riff-24khz-16bit-mono-pcm
 Content-Type: application/ssml+xml
 
